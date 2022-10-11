@@ -11,7 +11,7 @@
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-sass": "^2.3.2",
-    "mustache": "^2.2.1",
+    "mustache": "^3.2.1",
     "psd": "^3.1.0"
   },
   "dependencies": {
